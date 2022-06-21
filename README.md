@@ -17,10 +17,10 @@
 - Variable : class, object, local, final,....
  - Data types, Access modifier, constructor, supper, this
 - Four principle of OOP: 
-+ Encapsulation 
-+ Abstraction 
-+ Inheritance 
-+ Polymorphism
+   - Encapsulation 
+   - Abstraction 
+   - Inheritance 
+   - Polymorphism
 - Overload & Overrided 
 - Abstract class & Interface
 - Parcelable
@@ -33,15 +33,16 @@
 
 
 **2.0 Kotlin - 5 days**
-Functions
-Classes and objects
-Extensions
-Generics
-Functional manipulation
-Scope functions﻿
-Collections
-NullSafety
-..etc
+- Variables
+- Functions
+- Classes and objects
+- Extensions
+- Generics
+- Functional manipulation
+- Scope functions
+- Collections
+- NullSafety
+- ..etc
 
 **2.1 Requirements**
 - //TODO
