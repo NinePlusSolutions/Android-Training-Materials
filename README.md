@@ -79,19 +79,16 @@
 - LiveData
 - Coroutines
 - Retrofit, OKhttp, Gson
-- Room Database 
-
-**5.1 Requirements**
-- Tìm hiểu các Architechture thông dụng (MVP, MVVM) (Nếu rảnh tìm hiểu thêm Clean Architecture, Module Architecture)
+- Room Database
 - Dependency Injection (Dagger2, Koin, Hilt)
-- Demo 1 ứng dụng cơ bản có apply hết những kỹ thuật bên.
+- ViewBinding
+- Tìm hiểu các Architechture thông dụng (MVP, MVVM) (Nếu rảnh tìm hiểu thêm Clean Architecture, Module Architecture)
+- Tìm hiểu base project (https://github.com/ThuanPx/MVVM-Architecture)
 
-
-**6.0 Project  - 7 days**
-- Tìm hiểu base project (https://github.com/ThuanPx/MVVM-Architecture) 
+**5.1 Requirements  Project - 7 days**
 - Từ những kiến thức đã học, sử dụng base project để làm 1 ứng dụng gọi api từ các free server như moviedb (https://developers.themoviedb.org/3) hoặc pokemon (https://pokeapi.co/) hoặc bất kỳ server free nào khác.
  
-**7.0 Real Project - ERP Mobile**
+**6.0 Real Project - ERP Mobile**
 - Join dự án ERP Mobile (NinePlus Solutions)
 
 
